@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "X8Pibz7NR3F1khMFfjER9pfzb61FX2M8T8J0qR6QZTk=",
+  "Source": "CMSWebApi",
+  "BasePath": "_content/CMSWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
